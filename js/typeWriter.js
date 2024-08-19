@@ -1,7 +1,7 @@
 
 let i = 0;
-let text1 = "Hey! Miss Qiu.";
-let text2 = "Today is the Big Day."
+let text1 = "Hey!  My Love.";
+let text2 = "In the depths of your eyes, I discovered a universe where love knows no boundaries, where souls intertwine and hearts beat in perfect harmony."
 let speed = 100;
 
 function typeWriter(text, para){
